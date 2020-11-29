@@ -12,6 +12,13 @@ h2 {
 h3 {
   color: #d4933d;
 }
+h5 {
+  color: white;
+}
+bottomphoto {
+  top: 300px;
+  position: absolute;
+}
 
 body {
   background-color: #521614;
@@ -21,11 +28,12 @@ a:link, a:visited {
   border-radius: 25px;
   background-color: #8c191a;
   color: white;
-  padding: 15px 25px;
+  padding: 15px 30px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  float:left;
+  position: relative;
+  margin: 0 auto;
 }
 
 a:hover, a:active {
