@@ -39,3 +39,10 @@ a:link, a:visited {
 a:hover, a:active {
   background-color: #bd2c28;
 }
+
+img.resize{
+  float: left;
+  padding: 5px;
+  max-width:30%;
+  max-height:30%;
+}
